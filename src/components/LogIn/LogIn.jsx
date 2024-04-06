@@ -1,10 +1,9 @@
 import React from 'react'
 
-export default function singUp() {
+export default function LogIn() {
   return (
     <div>
       
     </div>
   )
 }
-
